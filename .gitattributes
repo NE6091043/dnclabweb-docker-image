@@ -1,5 +1,5 @@
 # to change language of repo 
-    *.java linguist-language=cpp
+    #*.java linguist-language=cpp
     *.css linguist-detectable=false
     *.js linguist-detectable=false
     *.html linguist-detectable=false
